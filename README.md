@@ -98,7 +98,7 @@ Built an interactive dashboard in Excel with:
 
 ##  Dashboard
 
-<img width="781" alt="Image" src="https://github.com/user-attachments/assets/c7dd559f-1c27-4f70-90ce-cbfd14a5e711" />
+<img width="797" alt="Image" src="https://github.com/user-attachments/assets/bd17bdba-d6c6-409e-944f-03d0474e6e57" />
 
 [DASHBOARD](https://1drv.ms/x/c/5229c7255eb7350e/EYXoIfAQo0tFiPnbSmSqcgwBKPb-9lO2ARZ3LghXggRW3w)
 
