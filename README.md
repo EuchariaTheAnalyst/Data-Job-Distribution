@@ -5,6 +5,19 @@ An end-to-end data analytics project using **MySQL** for data wrangling and **Ex
 
 ---
 
+**TABLE OF CONTENT**
+
+1. [Objective](#Objective)
+2. [Tools & Technologies](#Tools-&-Technologies)
+3. [Data Cleaning in MySQL](#Data-Cleaning-in-MySQL)
+4. [Feature Engineering](#Feature-Engineering)
+5. [Dashboard Visualization in Excel](#Dashboard-Visualization-in-Excel)
+6. [Key Insights](#Key-Insights)
+7. [Dashboard](#Dashboard)
+8. [Conclusion](#Conclusion)
+
+---
+
 ##  Objective
 
 To clean and analyze real-world data science job postings and build a dynamic Excel dashboard that delivers strategic labor market insights. This project demonstrates how raw, inconsistent job data can be transformed into a decision-support tool for recruiters, job seekers, and analysts.
@@ -22,7 +35,7 @@ To clean and analyze real-world data science job postings and build a dynamic Ex
 
 ---
 
-##  Data Cleaning in MySQL
+##  Data Cleaning in MySQL 
 
 The original dataset had multiple inconsistencies:
 - Salary estimates with varying formats: `$137k-$171k(est.)`, ranges, and symbols
