@@ -1,5 +1,5 @@
 # Data-Job-Distribution
-MYSQL and Excel Project
+MySQL and Excel Project
 
 An end-to-end data analytics project using **MySQL** for data wrangling and **Excel** for dashboard visualization. This project analyzes **672 real job postings** scraped from Glassdoor, with the goal of uncovering trends in salary, skills demand, job levels, work types, and more.
 
@@ -114,7 +114,7 @@ By analyzing this project, it surfaces key insights such as:
 
 - What roles offer higher salaries and which regions pay more
 
-- How work types are distributed — remote, hybrid, onsite
+- How work types are distributed:  remote, hybrid, onsite
 
 - What employers expect at different experience levels
 
