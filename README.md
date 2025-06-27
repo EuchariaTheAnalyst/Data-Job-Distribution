@@ -20,7 +20,7 @@ An end-to-end data analytics project using **MySQL** for data wrangling and **Ex
 
 ##  Objective
 
-To clean and analyze real-world data science job postings and build a dynamic Excel dashboard that delivers strategic labor market insights. This project demonstrates how raw, inconsistent job data can be transformed into a decision-support tool for recruiters, job seekers, and analysts.
+To clean and analyze real-world data  job postings and build a dynamic Excel dashboard that delivers strategic labor market insights. This project demonstrates how raw, inconsistent job data can be transformed into a decision-support tool for recruiters, job seekers, and analysts.
 
 ---
 
@@ -106,9 +106,9 @@ Built an interactive dashboard in Excel with:
 
 ## Conclusion
 
-This dashboard was built not just as a data project, but as a tool to help job seekers and career coaches better understand the realities of the data science job market.
+This dashboard was built not just as a data project, but as a tool to help job seekers and career coaches better understand the realities of the data  job market.
 
-By analyzing 672 real job postings, this project surfaces key insights such as:
+By analyzing this project, it surfaces key insights such as:
 
 - Which skills are truly in demand (e.g. R, SQL, Python, Excel)
 
